@@ -1,4 +1,4 @@
-# Interview---QA-Must-to-Know
+# Interview Q&A-Must-to-Know
 
 📌 [Linux QA For Interview](https://devops-diaries.beehiiv.com/p/50-linux-questions-must-to-know)
 
